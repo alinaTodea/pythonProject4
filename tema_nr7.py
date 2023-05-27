@@ -52,3 +52,11 @@ gaz.set_consum(4)
 
 apartament1.listeaza_utilitati()
 
+print(45 * '-')
+
+camera1 = Camera_living
+print(camera1.afiseaza_suprafata())
+camera1.este_mobilata(True)
+print(45 * '-')
+
+
